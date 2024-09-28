@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rhocansi.github.io/sitemap.rhocansi.gz
+Sitemap: https://rhocansi.github.io/app/sitemap.rhocansi.gz
+Sitemap: https://rhocansi.github.io/assets/sitemap.rhocansi.gz
+Sitemap: https://rhocansi.github.io/css/sitemap.rhocansi.gz
+Sitemap: https://rhocansi.github.io/data/sitemap.rhocansi.gz
+Sitemap: https://rhocansi.github.io/includes/sitemap.rhocansi.gz
+Sitemap: https://rhocansi.github.io/item/sitemap.rhocansi.gz
+Sitemap: https://rhocansi.github.io/src/sitemap.rhocansi.gz
